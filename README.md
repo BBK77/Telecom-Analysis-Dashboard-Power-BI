@@ -12,7 +12,8 @@ Tasks Given :
 Create a dashboard for executive management to provide some insights on revenue and active users in inform of comparision report between pre and post periods of 5G Launch based on metrics given.
 
 
-![Slide 1](https://user-images.githubusercontent.com/97013097/206906362-55f0a362-c1e8-4852-a60e-4432f532c10d.svg)
+![Presentation1](https://user-images.githubusercontent.com/97013097/206906455-7421954b-5c99-497f-8ce7-4e1f8a21b7e6.svg)
+
 
 
 The project Related Information :
@@ -35,6 +36,9 @@ Key Learnings :
 
 Some Insights
 1. P1 and P2 Plans take the top positions in the revenue /plan.
-2. After 5G there is decline in the actice users and revenue also.
-3.The Atliqo stands at third position in market share with 19.56%.
-4.Mumbai has highest ARPU with 61.29 cr after 5G.
+2. 
+3. After 5G there is decline in the actice users and revenue also.
+4. 
+5.The Atliqo stands at third position in market share with 19.56%.
+
+6.Mumbai has highest ARPU with 61.29 cr after 5G.
