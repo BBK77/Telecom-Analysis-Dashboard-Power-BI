@@ -1,1 +1,40 @@
-# Telecom-Analysis-Dashboard-Power-BI
+
+AtliQo Telecom 5G Analysis
+
+by BaratamBabaKrishna
+Domain: Telecom    Function: Executive Management
+
+AtliQo is one of the leading telecom providers in India and launched it’s 5G plans in May 2022 along with other telecom providers.
+
+However, the management noticed a decline in their active users and revenue growth post 5G launch in May 2022. Atliqo’s business director requested their analytics team to provide a comparison report of KPIs between pre and post-periods of the 5G launch. The management is keen to compare the performance between these periods and get insights which would enable them to make informed decisions to recover their active user rate and other key metrics. 
+
+Tasks Given :
+Create a dashboard for executive management to provide some insights on revenue and active users in inform of comparision report between pre and post periods of 5G Launch based on metrics given.
+
+
+![Slide 1](https://user-images.githubusercontent.com/97013097/206906362-55f0a362-c1e8-4852-a60e-4432f532c10d.svg)
+
+
+The project Related Information :
+------------------------------------------
+The tools used :
+1.Power BI
+2.Excel
+3.Power Point
+------------------------------------------
+Key Learnings :
+1. Worked on Bookmarks and created filter pages.
+2. Understood about the data modelling using fact and dim tables.
+3. Created measures on key metrics.
+--------------------------------------------
+
+
+![AT](https://user-images.githubusercontent.com/97013097/206906419-a3825cb0-f2b4-477c-add2-30eb9f53538f.png)
+
+
+
+Some Insights
+1. P1 and P2 Plans take the top positions in the revenue /plan.
+2. After 5G there is decline in the actice users and revenue also.
+3.The Atliqo stands at third position in market share with 19.56%.
+4.Mumbai has highest ARPU with 61.29 cr after 5G.
