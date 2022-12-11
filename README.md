@@ -36,9 +36,8 @@ Key Learnings :
 
 Some Insights
 1. P1 and P2 Plans take the top positions in the revenue /plan.
-
 2. After 5G there is decline in the actice users and revenue also.
-
-3.The Atliqo stands at third position in market share with 19.56%.
+3. 
+4.The Atliqo stands at third position in market share with 19.56%.
 
 4.Mumbai has highest ARPU with 61.29 cr after 5G.
