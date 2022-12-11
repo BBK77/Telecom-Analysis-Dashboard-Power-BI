@@ -18,9 +18,12 @@ Create a dashboard for executive management to provide some insights on revenue 
 
 ------------------------------------------
 The tools used :
+
 1.Power BI
+
 2.Excel
-3.Power Point
+
+3.Power point
 ------------------------------------------
 Key Learnings :
 1. Worked on Bookmarks and created filter pages.
@@ -31,7 +34,9 @@ Key Learnings :
 ![AT](https://user-images.githubusercontent.com/97013097/206906419-a3825cb0-f2b4-477c-add2-30eb9f53538f.png)
 
 Some Insights
+
 1. P1 and P2 Plans take the top positions in the revenue /plan.
+
 2. After 5G there is decline in the actice users and revenue also.
 
 3.The Atliqo stands at third position in market share with 19.56%.
