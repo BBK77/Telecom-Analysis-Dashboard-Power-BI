@@ -16,6 +16,11 @@ Create a dashboard for executive management to provide some insights on revenue 
 
 ![Presentation1](https://user-images.githubusercontent.com/97013097/206906455-7421954b-5c99-497f-8ce7-4e1f8a21b7e6.svg)
 
+
+For more detailed explaination 
+(Link to live dashboard)  : 
+https://www.novypro.com/project/telecom-analysis-1
+
 ------------------------------------------
 
 The tools used :
